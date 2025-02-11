@@ -126,9 +126,6 @@ h2 {
   width: 160px;
   height: 160px;
   position: absolute;
-  transition: opacity .2s ease-in-out;
-  -moz-transition: opacity .2s ease-in-out;
-  -webkit-transition: opacity .2s ease-in-out;
 }
 
 .fade {
@@ -146,26 +143,4 @@ span.highlight {
   padding: 20px;
   display: inline-block;
   border-radius: 10px;
-}
-
-.publication {
-  width: 900px;
-  min-height: 20px;
-  margin: 0 auto;
-  border: none;
-  text-align: left;
-  padding: 1em 1em 1em 1em;
-  color: #4d4b59;
-  background: #FFFFFF;
-}
-
-.paper {
-  clear: both;
-  width: 700px;
-  margin: 0 auto;
-  border: 1px hidden #000;
-  text-align: left;
-  padding: 1em 1em 1em 1em;
-  color: #4d4b59;
-  background: #FFFFFF;
 }
