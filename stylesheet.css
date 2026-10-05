@@ -1,5 +1,5 @@
 :root {
-  --paper: #f4ecd8;
+  --paper: #f7f5ef;
   --paper-deep: #eadfca;
   --ink: #1f1d19;
   --muted: #6f6a60;
@@ -33,8 +33,8 @@ body {
   line-height: 1.58;
   font-weight: 400;
   background:
-    radial-gradient(circle at 20% 10%, rgba(183, 143, 55, 0.1), transparent 28rem),
-    linear-gradient(180deg, var(--paper), #f7f0df 42%, var(--paper));
+    radial-gradient(circle at 20% 10%, rgba(183, 143, 55, 0.04), transparent 28rem),
+    linear-gradient(180deg, var(--paper), #faf9f5 42%, var(--paper));
   background-size: auto, auto;
 }
 
